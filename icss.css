@@ -1,0 +1,38 @@
+H1 { color: BLACK }  /* カラーをブルーに設定 */
+H1 { background: papayawhip } /* 背景 */
+H1 { text-align: left; text-indent: .5em }  /* 行揃えを中央に設定 */
+
+
+H2 { margin-right: 2em }  /* 右マージンを２emに設定 */
+H2 { border-left: groove 5pt papayawhip}
+
+P { font-size: 12pt ; text-indent: 1em ; margin-left: 1em ; margin-right: 1em	}
+  /* 12point に設定 1文字字下げ */
+
+
+
+BODY {
+    margin-top: 1em;     /* 上マージン設定 */
+    margin-right: 3em;   /* 右マージン設定 */
+    margin-bottom: 3em;	/* 下マージン設定 */
+    margin-left: 3em;    /* 左マージン設定 */
+    line-height: 1.5;
+    background-color: white;
+}
+
+.sans-serif {FONT-FAMILY: sans-serif}
+
+BLOCKQUOTE {
+ font-style: italic ;  /* 斜体で表示 */
+ line-height: 1.5;  /* 行間を1.5倍に設定 */
+}
+
+.text {
+	margin-left : 1em;
+	margin-right: 1em;
+}
+
+.tab {
+	margin-left : 2em;
+	margin-right: 1em;
+}
